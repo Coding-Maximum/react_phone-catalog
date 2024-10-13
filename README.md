@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -17,9 +16,9 @@
 <h3 align="center">React Product Catalog</h3>
 
 <p align="center">
-An awesome README template to jumpstart your projects!
+React Product Catalog
 <br />
-<a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/fetchYourBrain/react_phone-catalog"><strong>Explore the docs »</strong></a>
 <br />
 <br />
 <a href="https://fetchyourbrain.github.io/react_phone-catalog/">View Demo</a>
@@ -62,15 +61,7 @@ An awesome README template to jumpstart your projects!
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com/)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+The React Product Catalog is a fully functional web application that allows users to browse, shop, and manage their favorite products. Built using React, this project features a shopping cart, a favorites page, and various product categories, all while adhering to modern web development practices.
 
 Use the `BLANK_README.md` to get started.
 
@@ -245,7 +236,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: [images/screenshot.png](https://drive.google.com/file/d/1zLse9f0zTLCz-yQ1E_mKwhjTLsfoOort/view?usp=sharing)
+[product-screenshot]:(https://drive.google.com/file/d/1zLse9f0zTLCz-yQ1E_mKwhjTLsfoOort/view?usp=sharing)
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
