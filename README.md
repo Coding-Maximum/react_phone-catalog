@@ -46,10 +46,7 @@ React Product Catalog
 <li><a href="#installation">Installation</a></li>
 </ul>
 </li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#roadmap">Roadmap</a></li>
 <li><a href="#contributing">Contributing</a></li>
-<li><a href="#license">License</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
 </ol>
@@ -71,9 +68,8 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
-- [![HTML][HTML-shield][HTML-url]
+- [![HTML][HTML-shield]][HTML-url]
 - [![CSS][CSS-shield]][CSS-reference]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
