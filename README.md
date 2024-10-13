@@ -165,14 +165,14 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/fetchYourBrain/react_phone-catalog.svg?style=for-the-badge
 [contributors-url]: https://github.com/fetchYourBrain/react_phone-catalog/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/fetchYourBrain/react_phone-catalog.svg?style=for-the-badge
 [forks-url]: https://github.com/fetchYourBrain/react_phone-catalog/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/fetchYourBrain/react_phone-catalog.svg?style=for-the-badge
 [stars-url]: https://github.com/fetchYourBrain/react_phone-catalog/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/fetchYourBrain/react_phone-catalog.svg?style=for-the-badge
 [issues-url]: https://github.com/fetchYourBrain/react_phone-catalog/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/maksym-borovyk-front-end
+[linkedin-url]: https://www.linkedin.com/in/maksym-borovyk-front-end
 [product-screenshot]: https://drive.google.com/uc?id=1zLse9f0zTLCz-yQ1E_mKwhjTLsfoOort
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
