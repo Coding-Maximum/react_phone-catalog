@@ -129,8 +129,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="[[contributors-url]]">
-<img src="[[contributors-shield]]" alt="contrib.rocks image" />
+<a href="[contributors-url]">
+<img src="[contributors-shield]" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -163,7 +163,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://drive.google.com/file/d/1ytU2sgWNijue298oSXXAfb5kDTlD8JQx/view?usp=drive_link
+[contributors-shield]: https://drive.google.com/uc?id=1ytU2sgWNijue298oSXXAfb5kDTlD8JQx
 [contributors-url]: https://github.com/fetchYourBrain/react_phone-catalog/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
