@@ -236,10 +236,19 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]:(https://drive.google.com/file/d/1zLse9f0zTLCz-yQ1E_mKwhjTLsfoOort/view?usp=sharing)
+[product-screenshot]:https://drive.google.com/file/d/1zLse9f0zTLCz-yQ1E_mKwhjTLsfoOort/view?usp=sharing
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/maksym-borovyk-front-end
+[HTML-shield]: https://img.shields.io/badge/HTML-5E7C7A?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[HTML-tutorial]: https://www.w3schools.com/html/
+[HTML-reference]: https://www.w3.org/TR/html52/
+[CSS-shield]: https://img.shields.io/badge/CSS-4D93D9?style=for-the-badge&logo=css3&logoColor=white
+[CSS-tutorial]: https://www.w3schools.com/css/
+[CSS-reference]: https://www.css-reference.io/
 
 
