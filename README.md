@@ -73,12 +73,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][[Angular.io](http://angular.io/)]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][[Laravel.com](http://laravel.com/)]][Laravel-url]
-- [![Bootstrap][[Bootstrap.com](http://bootstrap.com/)]][Bootstrap-url]
-- [![JQuery][[JQuery.com](http://jquery.com/)]][JQuery-url]
+- [![HTML][HTML-shield][HTML-url]
+- [![CSS][CSS-shield]][CSS-reference]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,33 +97,15 @@ This is an example of how to list things you need to use the software and how to
     ```
     
 
-### Installation
-
-*Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.*
-
-1. Get a free API Key at [https://example.com](https://example.com/)
-2. Clone the repo
     
-    ```
-    git clone <https://github.com/github_username/repo_name.git>
-    
-    ```
-    
-3. Install NPM packages
+2. Install NPM packages
     
     ```
     npm install
     
     ```
     
-4. Enter your API in `config.js`
-    
-    ```
-    const API_KEY = 'ENTER YOUR API';
-    
-    ```
-    
-5. Change git remote url to avoid accidental pushes to base project
+3. Change git remote url to avoid accidental pushes to base project
     
     ```
     git remote set-url origin github_username/repo_name
@@ -135,32 +113,6 @@ This is an example of how to list things you need to use the software and how to
     
     ```
     
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-*For more examples, please refer to the [Documentation](https://example.com/)*
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [x]  Add Changelog
-- [x]  Add back to top links
-- [ ]  Add Additional Templates w/ Examples
-- [ ]  Add "components" document to easily copy & paste sections of the readme
-- [ ]  Multi-language Support
-    - [ ]  Chinese
-    - [ ]  Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,21 +139,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - [email@example.com](mailto:email@example.com)
+Your Name - [Maksym Borovyk][linkedin-url] - [mail](mailto:borovyk.maxym@gmail.com)
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: [https://github.com/fetchYourBrain/react_phone-catalog]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,13 +175,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: www.linkedin.com/in/maksym-borovyk-front-end
 [product-screenshot]: https://drive.google.com/uc?id=1zLse9f0zTLCz-yQ1E_mKwhjTLsfoOort
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
