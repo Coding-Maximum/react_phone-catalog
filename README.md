@@ -10,7 +10,7 @@
 <br />
 <div align="center">
 <a href="№">
-<img src="public/img/icons/logo.svg" alt="Logo" width="280" height="280">
+<img src="public/img/icons/logo.svg" alt="Logo" width="580" height="380">
 </a>
 
 <h3 align="center">React Product Catalog</h3>
@@ -163,7 +163,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/fetchYourBrain/react_phone-catalog.svg?style=for-the-badge
 [contributors-url]: https://github.com/fetchYourBrain/react_phone-catalog/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/fetchYourBrain/react_phone-catalog/network/members
