@@ -59,7 +59,7 @@ React Product Catalog
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 The React Product Catalog is a fully functional web application that allows users to browse, shop, and manage their favorite products. Built using React, this project features a shopping cart, a favorites page, and various product categories, all while adhering to modern web development practices.
 
